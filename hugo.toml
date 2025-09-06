@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
 publishDir = "docs"
+baseURL = "https://nvoul.github.io/demo-site/"
+# optional helpers if you use lots of absolute links:
+# relativeURLs = true
+# canonifyURLs = true
